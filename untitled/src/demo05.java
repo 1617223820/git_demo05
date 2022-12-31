@@ -1,6 +1,7 @@
 public class demo05 {
     public static void main(String[] args) {
         System.out.println("this is demo05");
-        System.out.println("demo05 push");
+        System.out.println("demo05 git push");
+        System.out.println("demo05 git pull");
     }
 }
